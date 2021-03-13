@@ -35,7 +35,7 @@ public class Lab_4 {
                 }
             }
         }
-        System.out.printf("наибольшее расстояние между точками",imax,jmax);
+System.out.printf("Наибольшее расстояние между точками %d, %d",imax,jmax);
     }
 }
 
